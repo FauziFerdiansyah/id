@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Landing
+title: Fauzi Ferdiansyah Profile Website
 email: fetruzie2@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Fauzi Ferdiansyah's Landing Page"
+keywords: "fauzi, fauzi ferdiansyah, uzi, dacil, dachiel, web developer, web designer, full-stack, programer, frontend, backend, profile, profile website, profil, profil pribadi, desain, ganteng, keren, kece, online shop, toko online, wordpress, laravel, cakephp, golang, ruby, site generator, designer, graphic design, desain grafis, material, web desain, desainer, kreatif, inovatif, produktif, indonesia"
 baseurl: "/id" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

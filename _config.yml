@@ -21,8 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/id" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: faferuziel
-github_username:  fauziferdiansyah
 
 # Build settings
 markdown: kramdown
@@ -39,7 +37,7 @@ fb: https://www.facebook.com/fauzi.ferdiansyah.5
 ig: https://www.instagram.com/fauzi_ferdiansyahs/
 tw: https://twitter.com/faferuziel
 gh: https://github.com/fauziferdiansyah
-wa: https://api.whatsapp.com/send?phone=08989515744&text=Assalamualaikum%20Fauzi
+wa: https://api.whatsapp.com/send?phone=628989515744&text=Assalamualaikum%20Fauzi
 my_web: www.fauzi.asvicode.com
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
